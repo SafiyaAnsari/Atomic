@@ -28,13 +28,7 @@ This project is a simple MERN-based web application that focuses on preventive h
 - Providers can view a list of registered patients
 - Shows a simple compliance indicator based on goals/checkups
 
-###  Health Information Page
-- Contains static content such as:
-  - COVID-19 updates
-  - Seasonal flu prevention
-  - Mental health awareness
 
----
 
 ## Tech Stack
 
